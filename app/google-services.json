@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819491316628",
+    "project_id": "producto-3-a2376",
+    "storage_bucket": "producto-3-a2376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819491316628:android:51f3c331c18436323ba581",
+        "android_client_info": {
+          "package_name": "com.jose.product03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfYSG9Ux08H_uuts7iQ7pGvABMUDLSM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
